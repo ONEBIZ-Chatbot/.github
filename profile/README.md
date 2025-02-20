@@ -50,8 +50,9 @@ ONEBIZ 챗봇은 인공지능 수행 비서로, 기업 경영 관리의 효율�
 
    - 정규식 필터링: 개인정보 및 중요 데이터 자동 차단
 
-     <img src="./resource/regex-filtering.png" alt="정규식 필터링" width="300">
-     <img src="./resource/regex-filtering-result.png" alt="정규식 필터링 결과" width="500">
+   | 정규식 필터링 | 정규식 필터링 결과 |
+   | --- | --- |
+   | <img src="./resource/regex-filtering.png" alt="정규식 필터링"> | <img src="./resource/regex-filtering-result.png" alt="정규식 필터링 결과" width="500"> |
    - 유사도 기반 필터링: 제공하지 않는 정보에 대한 응답 제한
 
 + 2️⃣ 요금 및 토큰 제한
